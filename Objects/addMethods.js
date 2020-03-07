@@ -3,13 +3,13 @@
 
 // Object to group similar math functions
 const math = {
-    multiply : (x, y) => {
+    multiply(x, y){
         return x * y;
     },
-    divide   : (x, y) => {
+    divide(x, y){
         return x / y;
     },
-    square   : (x) => {
+    square(x){
         return x * x;
     }
 }
