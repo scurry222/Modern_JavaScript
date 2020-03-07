@@ -16,7 +16,7 @@ function validAnagram(str1, str2){
 
         if (!d1[letter]) return false;
 
-        else d1[letter] -= 1
+        else d1[letter] -= 1;
     }
     return true
 }

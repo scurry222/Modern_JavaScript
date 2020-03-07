@@ -48,4 +48,3 @@ const books = [{
 ];
 
 const rating = books.sort((a, b) => a.rating - b.rating);
-  
