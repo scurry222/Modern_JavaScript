@@ -3,4 +3,9 @@
 ## Concepts:
 - Use DOM methods for projects
 - Event Listeners
-- Project: Dynamically instantiate NBA scores
+- [NBA Scores](./NBAScores.js)
+  - Dynamically instantiate NBA scores
+- [Impossible Button](./impossibleButton.js)
+- [Multiple Element Events](./multipleElementEvents.js)
+- [Coin Game](./coinGame.js)
+ 
